@@ -72,7 +72,24 @@
 //Console.WriteLine(sum);
 
 
-//
+string[] names = { "Cavid", "Cahandar", "Alakbar", "Aqshin", "Alakbar", "Alakbar" };
+
+int count = 0;
+
+foreach (var item in names)
+{
+    if(item == "Alakbar")
+    {
+        count++;
+    }
+
+    
+}
+
+
+Console.WriteLine(count);
+
+
 
 
 
