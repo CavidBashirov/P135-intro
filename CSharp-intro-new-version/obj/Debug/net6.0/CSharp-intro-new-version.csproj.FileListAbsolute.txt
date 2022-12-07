@@ -1,0 +1,15 @@
+C:\Users\javid\OneDrive\Desktop\P135\C#\C# intro\CSharp-intro-new-version\CSharp-intro-new-version\bin\Debug\net6.0\CSharp-intro-new-version.exe
+C:\Users\javid\OneDrive\Desktop\P135\C#\C# intro\CSharp-intro-new-version\CSharp-intro-new-version\bin\Debug\net6.0\CSharp-intro-new-version.deps.json
+C:\Users\javid\OneDrive\Desktop\P135\C#\C# intro\CSharp-intro-new-version\CSharp-intro-new-version\bin\Debug\net6.0\CSharp-intro-new-version.runtimeconfig.json
+C:\Users\javid\OneDrive\Desktop\P135\C#\C# intro\CSharp-intro-new-version\CSharp-intro-new-version\bin\Debug\net6.0\CSharp-intro-new-version.dll
+C:\Users\javid\OneDrive\Desktop\P135\C#\C# intro\CSharp-intro-new-version\CSharp-intro-new-version\bin\Debug\net6.0\CSharp-intro-new-version.pdb
+C:\Users\javid\OneDrive\Desktop\P135\C#\C# intro\CSharp-intro-new-version\CSharp-intro-new-version\obj\Debug\net6.0\CSharp-intro-new-version.csproj.AssemblyReference.cache
+C:\Users\javid\OneDrive\Desktop\P135\C#\C# intro\CSharp-intro-new-version\CSharp-intro-new-version\obj\Debug\net6.0\CSharp-intro-new-version.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javid\OneDrive\Desktop\P135\C#\C# intro\CSharp-intro-new-version\CSharp-intro-new-version\obj\Debug\net6.0\CSharp-intro-new-version.AssemblyInfoInputs.cache
+C:\Users\javid\OneDrive\Desktop\P135\C#\C# intro\CSharp-intro-new-version\CSharp-intro-new-version\obj\Debug\net6.0\CSharp-intro-new-version.AssemblyInfo.cs
+C:\Users\javid\OneDrive\Desktop\P135\C#\C# intro\CSharp-intro-new-version\CSharp-intro-new-version\obj\Debug\net6.0\CSharp-intro-new-version.csproj.CoreCompileInputs.cache
+C:\Users\javid\OneDrive\Desktop\P135\C#\C# intro\CSharp-intro-new-version\CSharp-intro-new-version\obj\Debug\net6.0\CSharp-intro-new-version.dll
+C:\Users\javid\OneDrive\Desktop\P135\C#\C# intro\CSharp-intro-new-version\CSharp-intro-new-version\obj\Debug\net6.0\refint\CSharp-intro-new-version.dll
+C:\Users\javid\OneDrive\Desktop\P135\C#\C# intro\CSharp-intro-new-version\CSharp-intro-new-version\obj\Debug\net6.0\CSharp-intro-new-version.pdb
+C:\Users\javid\OneDrive\Desktop\P135\C#\C# intro\CSharp-intro-new-version\CSharp-intro-new-version\obj\Debug\net6.0\CSharp-intro-new-version.genruntimeconfig.cache
+C:\Users\javid\OneDrive\Desktop\P135\C#\C# intro\CSharp-intro-new-version\CSharp-intro-new-version\obj\Debug\net6.0\ref\CSharp-intro-new-version.dll
